@@ -53,7 +53,7 @@ mvn archetype:generate                               \
       -DarchetypeArtifactId=flink-quickstart-java      \
       -DarchetypeVersion=1.3.0
 
-			```
+```
 
   groupId : link.apprensemble.quickstart
 	archetypId : quickstart
