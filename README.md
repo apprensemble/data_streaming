@@ -55,11 +55,11 @@ mvn archetype:generate                               \
 
 ```
 
-  groupId : link.apprensemble.quickstart
+    groupId : link.apprensemble.quickstart
 
-	archetypId : quickstart
+    archetypId : quickstart
 
-	version : 
+    version : 
 
 * aller dans le rep quickstart et builder le projet
 
@@ -98,7 +98,7 @@ C'est tout pour aujourd'hui.
 
 ## RAF
 
-* Permettre a flink de parser les messages du nodeMCU
+* Permettre à flink de parser les messages du nodeMCU
 * Ajout d'elasticsearch + kibana
 
 ## resources
