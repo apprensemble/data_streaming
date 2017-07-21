@@ -56,7 +56,9 @@ mvn archetype:generate                               \
 ```
 
   groupId : link.apprensemble.quickstart
+
 	archetypId : quickstart
+
 	version : 
 
 * aller dans le rep quickstart et builder le projet
